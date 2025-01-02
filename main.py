@@ -4,9 +4,9 @@ import requests
 
 # Constants
 BASE_API_URL = "https://api.langflow.astra.datastax.com"
-LANGFLOW_ID = "ENTER YOUR LANGFLOW ID"
-FLOW_ID = "ENTER YOUR FLOW ID"
-APPLICATION_TOKEN = "ENTER YOUR APPLICATION TOKEN"
+LANGFLOW_ID = "266a92da-f25d-4350-a70c-ec9984ba99fa"
+FLOW_ID = "ad67d18e-ed45-425f-8380-4b5400c22da8"
+APPLICATION_TOKEN = "<ENTER YOUR APPLICATION TOKEN>"
 TWEAKS = {
     "ChatInput-9vauS": {},
     "ChatOutput-TojAu": {},
