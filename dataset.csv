@@ -1,0 +1,201 @@
+post_id,post_type,likes,comments,shares
+post_1,Static Image,177,41,44
+post_2,Carousel,340,17,34
+post_3,Reels,326,58,35
+post_4,Static Image,421,51,23
+post_5,Carousel,178,38,9
+post_6,Carousel,146,14,40
+post_7,Carousel,313,99,10
+post_8,Carousel,483,65,45
+post_9,Static Image,170,60,16
+post_10,Static Image,456,28,35
+post_11,Carousel,267,11,17
+post_12,Reels,130,69,25
+post_13,Reels,371,79,38
+post_14,Carousel,433,77,33
+post_15,Static Image,134,33,2
+post_16,Static Image,318,73,27
+post_17,Static Image,119,79,32
+post_18,Carousel,61,61,26
+post_19,Static Image,455,57,10
+post_20,Reels,459,37,22
+post_21,Reels,127,43,6
+post_22,Carousel,472,45,39
+post_23,Static Image,491,59,5
+post_24,Carousel,332,98,16
+post_25,Reels,414,53,20
+post_26,Reels,406,89,1
+post_27,Static Image,366,58,49
+post_28,Carousel,187,32,13
+post_29,Reels,192,27,29
+post_30,Carousel,204,19,13
+post_31,Static Image,308,48,47
+post_32,Carousel,303,89,10
+post_33,Carousel,208,31,44
+post_34,Carousel,173,68,10
+post_35,Carousel,426,17,25
+post_36,Carousel,237,32,21
+post_37,Carousel,449,35,28
+post_38,Static Image,399,95,45
+post_39,Reels,406,31,32
+post_40,Static Image,332,36,23
+post_41,Reels,104,30,46
+post_42,Carousel,444,91,31
+post_43,Static Image,55,66,37
+post_44,Reels,360,24,16
+post_45,Static Image,303,21,38
+post_46,Static Image,148,51,41
+post_47,Static Image,461,43,26
+post_48,Carousel,128,62,17
+post_49,Carousel,116,50,47
+post_50,Static Image,378,18,25
+post_51,Static Image,486,81,21
+post_52,Static Image,178,60,48
+post_53,Carousel,492,66,39
+post_54,Reels,257,62,5
+post_55,Carousel,262,89,35
+post_56,Static Image,472,45,31
+post_57,Reels,266,34,49
+post_58,Reels,370,67,31
+post_59,Carousel,288,35,33
+post_60,Carousel,85,95,35
+post_61,Carousel,336,37,26
+post_62,Static Image,223,81,43
+post_63,Reels,107,97,41
+post_64,Carousel,462,15,2
+post_65,Reels,448,51,8
+post_66,Carousel,329,17,49
+post_67,Carousel,445,99,2
+post_68,Reels,450,89,11
+post_69,Reels,480,45,17
+post_70,Reels,205,65,20
+post_71,Static Image,120,72,10
+post_72,Carousel,307,25,28
+post_73,Reels,275,17,1
+post_74,Reels,187,100,12
+post_75,Carousel,229,14,14
+post_76,Static Image,118,97,25
+post_77,Carousel,334,78,43
+post_78,Carousel,363,54,10
+post_79,Carousel,296,53,38
+post_80,Static Image,124,50,28
+post_81,Carousel,173,45,6
+post_82,Reels,139,77,28
+post_83,Reels,315,51,10
+post_84,Reels,180,46,22
+post_85,Static Image,368,97,39
+post_86,Carousel,263,45,13
+post_87,Carousel,115,58,47
+post_88,Static Image,329,36,18
+post_89,Carousel,86,32,2
+post_90,Static Image,203,35,12
+post_91,Carousel,459,64,47
+post_92,Static Image,255,26,6
+post_93,Reels,174,73,37
+post_94,Static Image,407,43,12
+post_95,Static Image,128,25,7
+post_96,Carousel,340,92,23
+post_97,Reels,123,16,16
+post_98,Static Image,158,58,32
+post_99,Carousel,362,94,34
+post_100,Static Image,211,57,35
+post_101,Static Image,317,18,20
+post_102,Carousel,443,43,16
+post_103,Static Image,319,17,3
+post_104,Carousel,112,68,15
+post_105,Carousel,111,13,39
+post_106,Carousel,214,36,32
+post_107,Static Image,327,89,32
+post_108,Reels,74,56,42
+post_109,Static Image,336,26,23
+post_110,Carousel,205,72,29
+post_111,Static Image,157,46,39
+post_112,Carousel,398,93,40
+post_113,Carousel,231,34,6
+post_114,Carousel,466,24,36
+post_115,Reels,124,87,12
+post_116,Reels,135,45,35
+post_117,Reels,347,17,21
+post_118,Reels,182,42,19
+post_119,Carousel,127,36,44
+post_120,Static Image,452,72,27
+post_121,Reels,316,87,1
+post_122,Carousel,187,46,19
+post_123,Static Image,124,43,21
+post_124,Carousel,424,33,4
+post_125,Carousel,186,80,35
+post_126,Static Image,285,79,10
+post_127,Reels,462,87,6
+post_128,Static Image,483,52,29
+post_129,Carousel,328,52,25
+post_130,Static Image,94,77,19
+post_131,Static Image,354,30,50
+post_132,Static Image,493,60,21
+post_133,Reels,287,28,33
+post_134,Reels,414,84,46
+post_135,Static Image,418,64,3
+post_136,Static Image,305,67,12
+post_137,Reels,413,39,27
+post_138,Reels,368,52,42
+post_139,Carousel,497,64,31
+post_140,Carousel,185,50,22
+post_141,Static Image,325,98,6
+post_142,Carousel,386,42,9
+post_143,Reels,264,66,22
+post_144,Reels,475,100,9
+post_145,Static Image,127,62,45
+post_146,Carousel,131,29,2
+post_147,Reels,360,36,23
+post_148,Static Image,58,22,15
+post_149,Reels,318,43,15
+post_150,Carousel,321,25,11
+post_151,Reels,415,95,39
+post_152,Static Image,94,42,10
+post_153,Reels,238,25,32
+post_154,Static Image,207,48,45
+post_155,Carousel,245,84,48
+post_156,Reels,102,76,5
+post_157,Carousel,457,91,13
+post_158,Carousel,55,91,9
+post_159,Carousel,55,58,31
+post_160,Reels,230,100,42
+post_161,Reels,465,63,29
+post_162,Reels,498,19,32
+post_163,Carousel,230,94,47
+post_164,Reels,405,83,15
+post_165,Reels,348,74,46
+post_166,Reels,358,90,37
+post_167,Static Image,494,12,4
+post_168,Carousel,309,52,10
+post_169,Reels,225,70,17
+post_170,Reels,444,55,17
+post_171,Carousel,362,12,13
+post_172,Carousel,475,65,41
+post_173,Reels,79,10,23
+post_174,Static Image,356,68,2
+post_175,Static Image,373,20,8
+post_176,Static Image,250,85,19
+post_177,Carousel,394,17,33
+post_178,Static Image,441,66,41
+post_179,Static Image,100,80,10
+post_180,Static Image,266,46,38
+post_181,Carousel,243,29,5
+post_182,Carousel,330,78,7
+post_183,Static Image,453,92,38
+post_184,Carousel,381,57,50
+post_185,Carousel,432,94,40
+post_186,Carousel,304,51,14
+post_187,Reels,368,37,42
+post_188,Reels,167,19,16
+post_189,Carousel,312,22,6
+post_190,Carousel,272,53,47
+post_191,Reels,126,90,16
+post_192,Reels,101,10,18
+post_193,Static Image,334,56,1
+post_194,Carousel,318,78,43
+post_195,Static Image,101,48,44
+post_196,Static Image,153,63,31
+post_197,Carousel,110,95,23
+post_198,Reels,251,90,17
+post_199,Carousel,495,52,32
+post_200,Reels,245,14,5
