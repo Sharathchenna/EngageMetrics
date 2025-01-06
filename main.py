@@ -53,8 +53,8 @@ def run_flow(
         return {"error": str(e)}
 
 # Streamlit UI
-st.title("Your Personal Social Media Analyst")
-st.subheader("Enter your query and get insights!")
+st.title("EngageMetrics")
+st.subheader("Your Personal Social Media Analyst!")
 
 # Input fields
 message = st.text_area("Prompt", placeholder="Enter your prompt here...")
