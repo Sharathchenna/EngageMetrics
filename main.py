@@ -7,6 +7,7 @@ BASE_API_URL = "https://api.langflow.astra.datastax.com"
 LANGFLOW_ID = "266a92da-f25d-4350-a70c-ec9984ba99fa"
 FLOW_ID = "ad67d18e-ed45-425f-8380-4b5400c22da8"
 APPLICATION_TOKEN = "AstraCS:KNdzFoKJPxfknxafnBRskSlU:716d3c301ec704125d2f0953f7ae1c60d9010f1e8c9a693aa4ef9de66a1b47c2"
+TWEAKS = {
     "ChatInput-9vauS": {},
     "ChatOutput-TojAu": {},
     "OpenAIModel-SPpeb": {},
